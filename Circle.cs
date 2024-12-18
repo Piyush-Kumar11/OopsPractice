@@ -10,5 +10,10 @@ namespace OopsPractice
         {
             Console.WriteLine("Drawn a Circle");
         }
+
+        public void Print()
+        {
+            Console.WriteLine("Print a circle");
+        }
     }
 }
