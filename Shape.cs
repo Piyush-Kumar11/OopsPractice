@@ -6,7 +6,7 @@ namespace OopsPractice
 {
     internal class Shape
     {
-        public void Draw()
+        public virtual void Draw()
         {
             Console.WriteLine("Drwaing a Shape!");
         }

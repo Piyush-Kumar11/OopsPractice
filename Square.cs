@@ -6,7 +6,7 @@ namespace OopsPractice
 {
     internal class Square: Shape
     {
-        public void Draw()
+        public override void Draw()
         {
             Console.WriteLine("Drawn a Square");
         }
